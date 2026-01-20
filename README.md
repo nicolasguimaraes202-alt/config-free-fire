@@ -104,7 +104,8 @@
   <div class="box">
     <h2>💰 Valor promocional</h2>
     <p class="price">R$ 9,90</p>
-    <a class="button" href="https://wa.me/5599999999999" target="_blank">
+    <a class="button" href="https://wa.me/559281503664text=Quero%20comprar%20a%20configura%C3%A7%C3%A3o%20Free%20Fire%20X%20Jujutsu%20Kaisen%202026"
+      target="_blank">
       Comprar agora
     </a>
     <p style="text-align:center; font-size:14px; opacity:0.7;">
